@@ -8,3 +8,4 @@ Classification is a large domain in the field of statistics and machine learning
 
     Multi-class classification, where we wish to group an outcome into one of multiple (more than two) groups.
 
+![](images/Classification_result.png)
